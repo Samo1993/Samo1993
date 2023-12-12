@@ -38,7 +38,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sabrina-moccia-98b598105/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sabrina%20Moccia%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://outlook.live.com/mail/0/"><img alt="Email" src="https://img.shields.io/badge/Email-sabrinamoccia93@outlook.it-blue?style=flat-square&logo=gmail"></a>
+<p>Email: sabrinamoccia93@outlook.it</p>
 </p>
 
 ⭐️ From [Samo1993](https://github.com/Samo1993)
