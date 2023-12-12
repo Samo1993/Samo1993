@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies, developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science on Develhope on line school.
 - 🌱 &nbsp; Learning more about Cloud Architecture and Systems Design
 
