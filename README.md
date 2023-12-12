@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Samo1993/Samo1993/master/assets/Sabrina%20Moccia%20Singh%20Banner.png">
+
 
 <h2> Hey there! I'm Sabrina!.</h2>
 
